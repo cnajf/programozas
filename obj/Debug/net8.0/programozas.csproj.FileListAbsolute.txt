@@ -1,0 +1,14 @@
+E:\infó érettségi\2023 máj\programozas\bin\Debug\net8.0\programozas.exe
+E:\infó érettségi\2023 máj\programozas\bin\Debug\net8.0\programozas.deps.json
+E:\infó érettségi\2023 máj\programozas\bin\Debug\net8.0\programozas.runtimeconfig.json
+E:\infó érettségi\2023 máj\programozas\bin\Debug\net8.0\programozas.dll
+E:\infó érettségi\2023 máj\programozas\bin\Debug\net8.0\programozas.pdb
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.GeneratedMSBuildEditorConfig.editorconfig
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.AssemblyInfoInputs.cache
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.AssemblyInfo.cs
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.csproj.CoreCompileInputs.cache
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.dll
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\refint\programozas.dll
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.pdb
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.genruntimeconfig.cache
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\ref\programozas.dll
