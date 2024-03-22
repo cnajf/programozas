@@ -15,16 +15,12 @@
             for (int x = 1; x < 640; x++)
             {
                 osszeg = Math.Abs(kep[sorszam,x-1].blue-kep[sorszam,x].blue);
-                if(osszeg > elteres){
-
-                Console.WriteLine($"{sorszam}. sor: ({kep[sorszam,x-1].blue}; {kep[sorszam,x].blue}) különbség: {osszeg}");
-                }
                 if(osszeg > elteres)return true;
             }
             return false;
         }
         public static void Main(string[] args){
-            
+
             int width = 640;
             int height = 360;
             int[] szinek = new int[3];
