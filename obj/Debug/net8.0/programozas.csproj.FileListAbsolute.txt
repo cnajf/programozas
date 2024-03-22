@@ -12,3 +12,4 @@ E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\refint\programozas.d
 E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.pdb
 E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.genruntimeconfig.cache
 E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\ref\programozas.dll
+E:\infó érettségi\2023 máj\programozas\obj\Debug\net8.0\programozas.sourcelink.json
